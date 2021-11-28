@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ektavaishnav
+- 👋 Hi, I’m @Ekta Vaishnav
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Github
